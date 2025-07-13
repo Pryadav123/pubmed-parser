@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pubmed-parser"
+name = "pubmed-parser-prem-warriors"
 version = "0.1.0"
 description = "A tool to fetch and parse PubMed papers."
 authors = ["Your Name <you@example.com>"]
